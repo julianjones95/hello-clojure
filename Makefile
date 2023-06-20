@@ -1,0 +1,3 @@
+
+run:
+	clj hello.clj
